@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{124:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"donacion","name":"donaci\xf3n","count":1,"permalink":"/blog/tags/donacion"}')}}]);
